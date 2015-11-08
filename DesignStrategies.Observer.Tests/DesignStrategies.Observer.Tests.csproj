@@ -44,7 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClockDriverTest.cs" />
+    <Compile Include="iTime\ClockDriverTest.cs" />
+    <Compile Include="iTime\MockTimeSink.cs" />
+    <Compile Include="iTime\MockTimeSource.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
