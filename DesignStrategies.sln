@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignStrategies.Singleton.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignStrategies.Singleton.App", "DesignStrategies.Singleton.App\DesignStrategies.Singleton.App.csproj", "{46116BC0-157A-48C4-8F94-B281ADA8E74A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignStrategies.Observer", "DesignStrategies.Observer\DesignStrategies.Observer.csproj", "{8CA5A2AC-B429-4C4B-A9EF-51DAD60AECFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignStrategies.Observer.Tests", "DesignStrategies.Observer.Tests\DesignStrategies.Observer.Tests.csproj", "{E5331B2C-BF70-42CE-B4ED-2FBA6D97B4BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{46116BC0-157A-48C4-8F94-B281ADA8E74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46116BC0-157A-48C4-8F94-B281ADA8E74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46116BC0-157A-48C4-8F94-B281ADA8E74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA5A2AC-B429-4C4B-A9EF-51DAD60AECFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA5A2AC-B429-4C4B-A9EF-51DAD60AECFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA5A2AC-B429-4C4B-A9EF-51DAD60AECFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA5A2AC-B429-4C4B-A9EF-51DAD60AECFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5331B2C-BF70-42CE-B4ED-2FBA6D97B4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5331B2C-BF70-42CE-B4ED-2FBA6D97B4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5331B2C-BF70-42CE-B4ED-2FBA6D97B4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5331B2C-BF70-42CE-B4ED-2FBA6D97B4BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
